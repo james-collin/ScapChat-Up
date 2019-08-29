@@ -50,6 +50,10 @@ export const styles = StyleSheet.create({
         fontSize:20,
         fontWeight:'bold',
     },
+    /**
+     * icon - bell
+     * used image
+     */
     iconBell:{        
         marginRight:10,
     },

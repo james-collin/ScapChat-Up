@@ -53,6 +53,7 @@ export const styles = StyleSheet.create({
     /**
      * icon - bell
      * used image
+     * 
      */
     iconBell:{        
         marginRight:10,

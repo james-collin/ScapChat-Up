@@ -26,6 +26,17 @@ export const styles = StyleSheet.create({
         fontWeight: '500',
     },
     /**
+     * title ; Add Friends
+     */
+    title001:{
+        fontSize: 21,
+        color: '#424a54',
+        //fontFamily: 'Avenir',
+        fontWeight: 'bold',
+        textAlign: 'center',
+        letterSpacing:1.3,        
+    },
+    /**
      * * icon user plus
      * * icon more
      */
@@ -38,6 +49,9 @@ export const styles = StyleSheet.create({
         color:'white',
         fontSize:20,
         fontWeight:'bold',
+    },
+    iconBell:{        
+        marginRight:10,
     },
     /**
      * DiscoverScreen
@@ -82,6 +96,7 @@ export const styles = StyleSheet.create({
         fontWeight: '800',
         textAlign: 'right',
     },
+    
     /**
      * Button Add Friends
      */
@@ -100,6 +115,19 @@ export const styles = StyleSheet.create({
         flexDirection : 'row',
         width:'100%',
         justifyContent : 'space-between',
+    },
+
+    /**
+     * Search Bar
+     */
+    searchBar:{
+        backgroundColor:'#ecedec',
+        borderTopWidth : 1,
+        borderBottomWidth : 1,
+        borderLeftWidth:1,
+        borderRightWidth:1,
+        borderRadius : 15,
+        borderColor : 'gray',
     },
 });
   

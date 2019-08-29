@@ -1,26 +1,43 @@
-export const data = [
+export const friends = [
 {
     imageUrl: "http://via.placeholder.com/160x160",
-    title: "something"
+    username: "Parti St",
+    userid: "partidt"
 },
 {
     imageUrl: "http://via.placeholder.com/160x160",
-    title: "something two"
+    username: "Alexia",
+    userid: "partidt"
 },
 {
     imageUrl: "http://via.placeholder.com/160x160",
-    title: "something three"
+    username: "loana Martia",
+    userid: "partidt"
 },
 {
     imageUrl: "http://via.placeholder.com/160x160",
-    title: "something four"
+    username: "Patricia Pop",
+    userid: "partidt"
 },
 {
     imageUrl: "http://via.placeholder.com/160x160",
-    title: "something five"
+    username: "Dani lng",
+    userid: "partidt"
 },
 {
     imageUrl: "http://via.placeholder.com/160x160",
-    title: "something six"
-}
+    username: "Loreley19",
+    userid: "partidt"
+},
+{
+    imageUrl: "http://via.placeholder.com/160x160",
+    username: "Raluka",
+    userid: "partidt"
+},
+{
+    imageUrl: "http://via.placeholder.com/160x160",
+    username: "Mada Cataneq",
+    userid: "partidt"
+},
+
 ];

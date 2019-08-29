@@ -15,6 +15,7 @@ module.exports = {
           "@themes": "./src/themes",
           "@views": "./src/views",
           "@configs": "./src/configs",
+          "@data": "./src/data",
         },
       },
     ],
